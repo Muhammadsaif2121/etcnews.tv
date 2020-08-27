@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+.contianer{
+	width:1000px;
+	margin:auto;
+	border:solid 5px red;}
+	.header{
+		width:1000px;
+		height:250px;
+		background:#003;}
+		
+		
+	.contianerslider{
+		width:auto;
+		height:auto;
+		border:solid #000 5px;}
+		.leftslider{
+			width:100px;
+			height:600px;
+			background:#0F0;
+			left:auto;}
+			.rightslider{
+				width:100px;
+				height:600px;
+				background:red;
+				position:relative;
+				top:auto;
+				left:400px;}
